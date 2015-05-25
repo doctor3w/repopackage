@@ -1,0 +1,66 @@
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+	background: transparent;
+	font-family: 'HelveticaNeue';
+	font-size: 100%;
+}
+
+panel {
+	display: block;
+	width: 320px;
+}
+
+panel>label {
+	margin: 13px 0 0 10px;
+	font-weight: bold;
+	color: #4d4d70;
+	text-shadow:rgba(255, 255, 255, 0.75) 1px 1px 0;
+	line-height: 24px;
+}
+
+fieldset {
+	margin: 8px;
+	background: #ffffff;
+	border: 1px solid #999;
+	border-radius: 9px;
+}
+
+.cydia-block {
+	padding: 12px 14px 12px 14px;
+}
+
+.cydia-block ul {
+	margin: 0 14px;
+}
+
+fieldset a {
+	padding: 12px 14px 10px 14px;
+	background-repeat: no-repeat;
+	background-image: url(img/chevron.png);
+	background-position: 275px center;
+	display: block;
+	text-decoration: none;
+	color: #444;
+}
+
+.icon {
+	height: auto;
+	margin: -7px 6px -9px -8px;
+	max-height: 29px;
+	min-width: 29px;
+	width: 29px;
+}
+
+.repo-logo {
+	padding: 6px 14px 6px 14px;
+}
+

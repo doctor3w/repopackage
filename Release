@@ -1,0 +1,8 @@
+Origin: repo_name_here
+Label: short_repo_name
+Suite: stable
+Version: 0.1
+Codename: cool_underground_secret_name_here
+Architectures: iphoneos-arm
+Components: main
+Description: description_of_repo_here
